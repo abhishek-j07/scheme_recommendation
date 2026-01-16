@@ -36,7 +36,7 @@ index = faiss.read_index(index_path)
 metadata = pd.read_csv(metadata_path)
 
 # Load embedding model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
 # -------------------- REQUEST SCHEMA --------------------
 
