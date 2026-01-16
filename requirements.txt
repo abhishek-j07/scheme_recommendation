@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn
+pydantic
+pandas
+faiss-cpu
+sentence-transformers
+torch
+numpy
+scikit-learn

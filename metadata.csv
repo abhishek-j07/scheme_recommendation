@@ -1,0 +1,59 @@
+scheme_name,government_level,state,department_or_ministry,launch_date,sector,objective,official_url
+Pradhan Mantri Jan Dhan Yojana (PMJDY),Central,,Ministry of Finance,2014-08-28,Financial Inclusion,Universal access to banking facilities,https://www.pmjdy.gov.in/
+Pradhan Mantri Ujjwala Yojana (PMUY),Central,,Ministry of Petroleum & Natural Gas,2016-05-01,Energy,LPG connections for BPL households,https://www.pmuy.gov.in/
+Pradhan Mantri Awas Yojana - Gramin (PMAY-G),Central,,Ministry of Rural Development,2016-11-20,Housing,Affordable rural housing,https://pmayg.nic.in/
+Pradhan Mantri Awas Yojana - Urban (PMAY-U),Central,,Ministry of Housing & Urban Affairs,2015-06-25,Housing,Affordable urban housing,https://pmaymis.gov.in/
+MGNREGA,Central,,Ministry of Rural Development,2005-09-07,Employment,100 days wage employment for rural households,https://nrega.nic.in/
+Ayushman Bharat - PMJAY,Central,,Ministry of Health and Family Welfare,2018-09-23,Health,Health insurance for poor families,https://pmjay.gov.in/
+PM-KISAN,Central,,Ministry of Agriculture & Farmers' Welfare,2019-02-01,Agriculture,Income support to farmers,https://pmkisan.gov.in/
+Swachh Bharat Mission (SBM),Central,,Ministry of Housing & Urban Affairs / Jal Shakti,2014-10-02,Sanitation,Eliminate open defecation and improve solid waste management,https://swachhbharatmission.gov.in/
+Beti Bachao Beti Padhao (BBBP),Central,,Ministry of Women and Child Development,2015-01-22,Gender,Improve child sex ratio and promote girls' education,https://wcd.nic.in/
+National Food Security Act (NFSA) / PDS,Central,,"Ministry of Consumer Affairs, Food & Public Distribution",2013-09-12,Food Security,Provide subsidised food grains,https://dfpd.gov.in/
+Atal Pension Yojana (APY),Central,,Ministry of Finance,2015-06-01,Pensions,Pension for unorganised sector,https://npscra.nsdl.co.in/atal-pension-yojana.php
+Pradhan Mantri Mudra Yojana (PMMY),Central,,Ministry of Finance,2015-04-08,Credit,Loans to small businesses,https://www.mudra.org.in/
+DAY-NRLM (National Rural Livelihoods Mission),Central,,Ministry of Rural Development,2011-06-15,Livelihoods,Promote self-employment of rural poor,https://aajeevika.gov.in/
+PMKVY,Central,,Ministry of Skill Development & Entrepreneurship,2015-07-15,Skill Development,Short-term skill training for youth,https://pmkvyofficial.org/
+PMGSY,Central,,Ministry of Rural Development,2000-12-25,Rural Infrastructure,All-weather rural road connectivity,https://pmgsy.nic.in/
+ICDS,Central,,Ministry of Women and Child Development,1975-10-02,Child Welfare,Supplementary nutrition and pre-school education,https://icds-wcd.nic.in/
+Mid-Day Meal Scheme (MDMS),Central,,Ministry of Education,1995-11-28,Education/Nutrition,Hot cooked meals for schoolchildren,https://mdm.nic.in/
+National Health Mission (NHM),Central,,Ministry of Health and Family Welfare,2013,Health,Strengthen healthcare across rural and urban areas,https://nhm.gov.in/
+PMFBY (Crop Insurance),Central,,Ministry of Agriculture & Farmers' Welfare,2016-01-13,Crop Insurance,Insurance protection for farmers,https://pmfby.gov.in/
+Stand Up India,Central,,Ministry of Finance / DPIIT,2016-04-05,Entrepreneurship,Loans to SC/ST and women entrepreneurs,https://www.standupmitra.in/
+PM-SYM (Pension for Unorganised Workers),Central,,Ministry of Labour & Employment,2019-02-12,Pension,Pension for unorganised workers,https://ulam.gov.in/
+PMJJBY (Life Insurance),Central,,Ministry of Finance,2015-05-12,Insurance,Affordable term life insurance,https://www.jansuraksha.gov.in/
+E-SHRAM (Worker Database),Central,,Ministry of Labour & Employment,2021-08-26,Worker Database,National database of unorganized workers,https://eshram.gov.in/
+PM-SVANidhi (Street Vendors),Central,,Ministry of Housing & Urban Affairs,2020-06-01,Urban Livelihoods,Working capital loans to street vendors,https://pmsvanidhi.mohua.gov.in/
+National Social Assistance Programme (NSAP),Central,,Ministry of Rural Development,1995-08-15,Social Security,"Pensionary assistance to elderly, widows and disabled",https://nsap.nic.in/
+Ladli Lakshmi / Ladki Bahin (Maharashtra variants),State,Maharashtra,Social Welfare / Women & Child,various,Women/Girl Child,Financial incentives for girl child empowerment,https://ahilyanagar.maharashtra.gov.in/
+MAHA DBT Sarv Shetkari Yojana (farmer DBT),State,Maharashtra,Agriculture,various,Agriculture/DBT,Direct benefit transfers to farmers,https://mahadbt.maharashtra.gov.in/
+Mukhyamantri Kanya Sumangala Yojana (MKSY),State,Uttar Pradesh,Women Welfare,2013,Girl Child,Financial support to girls for education and welfare,https://mksy.up.gov.in/
+UP Mukhyamantri Swarozgar Yojana,State,Uttar Pradesh,MSME/Youth,various,Entrepreneurship,Support for youth self-employment,https://msme1connect.up.gov.in/
+Pudhumai Penn Scheme,State,Tamil Nadu,Social Welfare,various,Women Empowerment,Comprehensive welfare for women,https://www.tnsocialwelfare.tn.gov.in/
+Chief Minister's Nutritious Meal Programme (TN Mid-day),State,Tamil Nadu,School Education,1982,Nutrition/Education,Nutritious meals for students,https://www.tnsocialwelfare.tn.gov.in/
+Karnataka Gruha Jyothi / Anna Bhagya (state food/welfare variants),State,Karnataka,Food & Civil Supplies,various,Food Security,State-level food subsidy and welfare delivery,https://dom.karnataka.gov.in/
+Yuva Nidhi / Skill Karnataka initiatives,State,Karnataka,Skill Development,various,Youth/Skill,Skill training and support for youth,https://www.skilldevelopment.karnataka.gov.in/
+Balika Samruddhi (Gujarat),State,Gujarat,Women & Child Development,various,Girl Child,Support programs for girl child welfare,https://gujaratindia.gov.in/
+Mukhyamantri Khetut Sahay Yojana (example farmer aid),State,Gujarat,Agriculture,various,Agriculture,State support to farmers,https://gujaratindia.gov.in/
+Aswasanidhi (Kerala),State,Kerala,Women & Child Development,various,Social Security,Pension scheme for women in need,https://wcd.kerala.gov.in/
+Mandahasam (Kerala senior dental support),State,Kerala,Social Justice,various,Senior Citizens/Health,Provision of dentures for senior citizens,https://sjd.kerala.gov.in/
+Kanyashree Prakalpa,State,West Bengal,Women & Child Development,2013-10-01,Girl Child/Education,Conditional cash transfers to encourage girls' education,https://wb.gov.in/
+Lakshmir Bhandar,State,West Bengal,Social Welfare,2020,Women/Social Security,Cash support to women heads of households,https://wcdsw.wb.gov.in/
+YSR Rythu Bharosa,State,Andhra Pradesh,Agriculture,2019,Agriculture/Income Support,Support payments to farmers,https://kurnool.ap.gov.in/
+Fee Reimbursement (AP),State,Andhra Pradesh,Education,various,Education/Scholarship,Fee reimbursement for eligible students,https://kurnool.ap.gov.in/
+Kalyana Lakshmi / Shaadi Mubarak (Telangana),State,Telangana,Women & Child Welfare,2014,Marriage Assistance,Financial assistance for bride's marriage,https://hyderabad.telangana.gov.in/
+Rajiv Yuva Vikasam,State,Telangana,Youth Services,various,Youth/Employment,Support for youth entrepreneurship,https://wanaparthy.telangana.gov.in/
+Bhamashah Yojana (Rajasthan),State,Rajasthan,Finance/Social Welfare,2014,DBT/Beneficiary Database,State beneficiary database & DBT platform,https://jansoochna.rajasthan.gov.in/
+Mukhyamantri Nishulk Dawa & Janch Yojna,State,Rajasthan,Health,various,Health,Free medicines & diagnostics for citizens,https://jansoochna.rajasthan.gov.in/
+Mukhyamantri Kanya Uthan Yojana (Bihar),State,Bihar,Women & Child Development,various,Girl Child,Support and incentives for girl child education,https://state.bihar.gov.in/
+Mukhyamantri Kanya Suraksha Yojana (Bihar),State,Bihar,Women & Child Development,various,Girl Child,Financial incentives for girls at birth and education,https://state.bihar.gov.in/
+KALIA Scheme (Krushak Assistance for Livelihood and Income Augmentation),State,Odisha,Agriculture,2018,Agriculture,Support to farmers including financial assistance,https://kalia.odisha.gov.in/
+Mission Shakti (women empowerment),State,Odisha,Women & Child Development,2016,Women Empowerment,Self-help groups and women livelihoods,https://wcdodisha.nic.in/
+Kisan Sahay Yojana / Farmer support (Punjab),State,Punjab,Agriculture,various,Agriculture,State-level support to farmers,https://punjab.gov.in/
+Beti Bachao Beti Padhao (Punjab initiatives),State,Punjab,Women & Child,various,Gender,State-level girl child support measures,https://punjab.gov.in/
+Meri Fasal Mera Byora (Haryana farmer database),State,Haryana,Agriculture,2016,Agriculture/DBT,Farmer database for benefits delivery,https://haryana.gov.in/
+Asom Mala / State road/welfare schemes,State,Assam,Transport/Rural Development,various,Infrastructure,Road and rural connectivity projects,https://assam.gov.in/
+Krishak Bandhu (Assam - farmer support variant),State,Assam,Agriculture,various,Agriculture,Support to farmers and rural households,https://assam.gov.in/
+Ladli Laxmi Yojana (MP),State,Madhya Pradesh,Women & Child Development,2007,Girl Child,Incentives for girl child education,https://www.mppanchayat.nic.in/
+Mukhyamantri Kisan Kalyan Yojana,State,Madhya Pradesh,Agriculture,various,Agriculture,Support and subsidies for farmers,https://www.mppanchayat.nic.in/
+Godhan Nyay Yojana (Chhattisgarh),State,Chhattisgarh,Rural Development/Agriculture,2020,Rural Livelihoods/Agriculture,Buy cow dung from farmers to promote organic composting and livelihoods,https://cgstate.gov.in/
+Asli Scheme / State welfare (example),State,Jharkhand,Various,various,Multiple,State-level welfare and livelihood schemes,https://jharkhand.gov.in/
